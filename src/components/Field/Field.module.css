@@ -1,0 +1,16 @@
+.buttons {
+  display: flex;
+  width: 270px;
+  flex-wrap: wrap;
+}
+
+.button {
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+  background-color: blueviolet;
+  border: none;
+  text-align: center;
+  font-size: 40px;
+	font-family: 'Protest Riot', sans-serif;
+}

@@ -1,0 +1,20 @@
+.game {
+	padding: 1.25rem;
+  border-radius: 40px;
+	font-size: 2rem;
+	text-align: center;
+	letter-spacing: 0.5rem;
+	line-height: 1.5;
+	background-color: #310053;
+}
+
+.restartButton {
+  font-family: 'Protest Riot', sans-serif;
+  margin: 10px;
+  font-size: 36px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #4a1a6d;
+  border: none;
+  color: #fff;
+}
